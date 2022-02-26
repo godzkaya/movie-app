@@ -11,7 +11,7 @@ pipeline {
 
         stage('build') {
             steps {
-                echo 'build stage automated'
+                echo 'build worked?'
             }
         }
     }
