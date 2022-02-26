@@ -11,7 +11,7 @@ pipeline {
 
         stage('build') {
             steps {
-                echo 'absouletly worked?'
+                echo 'just dev'
             }
         }
     }
